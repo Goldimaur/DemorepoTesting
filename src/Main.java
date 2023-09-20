@@ -1,7 +1,14 @@
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("hello");
-        int a=5,b=8;
+import java.util.Scanner;
 
-    }
+public class Main {
+
+        //app online payment system
+
+         void UPIpayment(){
+            System.out.println("up");
+        }
+        void paypal(){
+            System.out.println("paypal");
+        }
+
 }
